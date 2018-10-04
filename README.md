@@ -1,4 +1,5 @@
-# LnbDomoticsWebui
+# lnb-domotics-webui
+All Angular and Web UI stuff; the front-end thingies
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
 
